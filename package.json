@@ -1,7 +1,7 @@
 {
-  "name": "ArieTubeBot-Md",
+  "name": "CxyooBotz-Md",
   "version": "10.0.0",
-  "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
+  "description": "Cxbotz",
   "main": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Stvn",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
